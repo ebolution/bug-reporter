@@ -13,11 +13,11 @@ This Bug Reporter JavaScript library is a proof-of-concept developed with the he
 
 ## Usage
 
-To use the Bug Reporter library in your website, follow the instructions in the [Integrator Documentation](#integrator-documentation).
+To use the Bug Reporter library in your website, follow the instructions in the [Integrator Documentation](/docs/integrator-documentation.md).
 
 ## Development
 
-For information about how to develop and contribute to the Bug Reporter library, see the [Developer Documentation](#developer-documentation).
+For information about how to develop and contribute to the Bug Reporter library, see the [Developer Documentation](/docs/developer-documentation.md).
 
 ## Testing
 
