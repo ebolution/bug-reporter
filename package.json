@@ -1,0 +1,30 @@
+{
+  "name": "bug-reporter-js-library",
+  "version": "1.0.0",
+  "description": "A JavaScript library for reporting bugs directly from any website to Jira",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebolution/bug-reporter.git"
+  },
+  "keywords": [
+    "bug-reporting",
+    "javascript-library",
+    "jira-integration"
+  ],
+  "author": "Avanzed Cloud Develop SL",
+  "license": "MIT",
+  "homepage": "https://github.com/ebolution/bug-reporter.git",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0",
+    "babel-loader": "^8.2.2",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
+}
